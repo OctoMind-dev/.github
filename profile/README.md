@@ -7,5 +7,5 @@ We felt the frustration of inefficient work and suffered in the aftermath of bro
 We're still in stealth, so this is as much as we can share. We'll be adding more information as our Octo grows into a real cephalopod. 
 
 <p align="center">
-  <img width="500px" src="baby-octopus.png" />
+  <img width="500px" src="https://github.com/OctoMind-dev/.github/blob/main/profile/baby-octopus.png" />
 </p>
