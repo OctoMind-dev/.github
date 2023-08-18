@@ -6,7 +6,7 @@ Hey! We're automating end-to-end tests using Playwright. You'll just give us a U
 * These are our [docs](https://docs.octomind.dev/)
 * You can find more info on [octomind.dev](https://www.octomind.dev/)
 
-Octomind can be triggered from your CI, these are the integrations:  
+Octomind can be triggered from your CI. These are the integrations we provide right now:  
 * [GitHub Actions](https://github.com/OctoMind-dev/automagically-action-execute)
 * [Azure DevOps](https://github.com/OctoMind-dev/automagically-azure-devops-task-execute)
 * [Vercel](https://github.com/OctoMind-dev/vercel-actions-example)
