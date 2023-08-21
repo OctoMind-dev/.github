@@ -4,7 +4,7 @@ Hey! We're automating end-to-end tests using Playwright. You'll just give us a U
 
 * This is where you **[set-up your first UI test](https://app.octomind.dev/setup/url?utm_source=github&utm_medium=txt-lnk)** 
 * These are our [docs](https://docs.octomind.dev/)
-* You can find more info on [octomind.dev](https://www.octomind.dev/)
+* Find more info on [octomind.dev](https://www.octomind.dev/)
 
 Octomind can be triggered from your CI. These are the integrations we provide right now:  
 * [GitHub Actions](https://github.com/OctoMind-dev/automagically-action-execute)
