@@ -5,7 +5,7 @@
 Hey! We're automating end-to-end tests using Playwright. You'll just give us a URL and with the help of AI we will discover, execute and maintain your end-to-end tests. You can use our app or plug it into your CI/CD. To review the results we've built in the [Playwright Test Viewer](https://playwright.dev/docs/trace-viewer) and open sourced [Debugtopus](https://github.com/OctoMind-dev) for local debugging.     
 
 * This is where you **[set up your first UI test](https://app.octomind.dev/setup/url?utm_source=github&utm_medium=txt-lnk)** 
-* These are our [docs](https://docs.octomind.dev/)
+* These are our [docs](https://octomind.dev/docs)
 * Find more info on [octomind.dev](https://www.octomind.dev/)
 
 Octomind can be triggered from your CI. These are the integrations we provide right now:  
