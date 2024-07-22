@@ -20,7 +20,7 @@ If a test goes red, we alert you and pinpoint the bug in screenshots. You can go
 
 1. **thinking about what tests you need to write** >>> It goes through your app, checks what tests would make sense and auto-generates them. If it sees cookie or required login test, it autogenerates them and populates them as dependency for other tests.
 
-2. **writing tests** >>> Beyond fully auto-generated test created by the "AI discovery" ru, the AI agent generates test steps automatically based on a prompt when adding a new test. In case you prefer a non-AI routine, we have a test recorder as an option for adding new tests. 
+2. **writing tests** >>> Beyond fully auto-generated test created by the "AI discovery" run at the set-up of your test suite, the AI agent generates test steps automatically based on a prompt when adding a new test. In case you prefer a non-AI routine, we have a test recorder as an option for adding new tests. 
 
 3. **figuring out what is broken** >>> We'll show you what test step is not working. In test results we'll pinpoint the bug.  
 
