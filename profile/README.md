@@ -12,7 +12,7 @@ If a test goes red, we alert you and pinpoint the bug in screenshots. You can go
 - Free hosting, unlimited test runs
 - Unlimited projects/ URLs
 - Tests are run in parallel, so your test suite will complete in 20 minutes or less, regardless of size
-- You can plug us it into your CI/CD or schedule test runs in our app
+- You can plug us into your CI/CD or schedule test runs in our app
 - Octomind can run next to your existing test suite, no need swap any existing tech stack
 - You can download the vanilla Playwright code to run your tests locally
 
