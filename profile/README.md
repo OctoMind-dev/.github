@@ -9,7 +9,7 @@ Whether you want to make sure you didn't break a new build or use the e2e test f
 ## Generate tests the way you prefer
 https://www.octomind.dev/product/generate-tests
 
-- with your AI client connected via MCP
+- with your [AI client connected via MCP](https://www.octomind.dev/product/mcp)
 - import from test management tools
 - record a specific test case with our recorder
 - prompt out AI agent with natural language
@@ -21,7 +21,7 @@ https://www.octomind.dev/product/run-e2e-tests
 
 - Free hosting
 - Tests run in parallel to run a test suite of any size fast
-- You can plug us into your [CI/CD](http://localhost:3000/integrations/integrations-overview), schedule test runs in our app, via curl or locally
+- You can plug us into your [CI/CD](http://localhost:3000/integrations/integrations-overview), schedule test runs in our app, via curl or locally, or trigger via mcp from your AI-powered tooling
 - [Octomind’s APIs](https://octomind.dev/docs/api-reference/test-targets/retrieve-all-test-targets) fit into your existing setup
 - Your code is visible at all times and you can download the vanilla Playwright code to run your tests locally
 - SOC2 and GDPR compliant, secure testing of private apps via [private location worker](https://octomind.dev/docs/proxy/private-location)
