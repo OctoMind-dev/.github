@@ -16,7 +16,7 @@ https://www.octomind.dev/product/generate-tests
 
 Octomind supports complex test setup - unlimited environments, CI/CD integratetion, custom variables, test sharding, automated validation, email flow testing, 2FA logins, data isolation, shared auth state, and [more]([octomind](https://octomind.dev/docs).
 
-## Execute test at scale - fully managed and deterministic 
+## Execute tests at scale - fully managed and deterministic 
 https://www.octomind.dev/product/run-e2e-tests
 
 - Free hosting
@@ -27,7 +27,7 @@ https://www.octomind.dev/product/run-e2e-tests
 - SOC2 and GDPR compliant, secure testing of private apps via [private location worker](https://octomind.dev/docs/proxy/private-location)
 - [We don't use AI in runtime](https://www.octomind.dev/blog/ai-doesnt-belong-in-test-runtime)
 
-## Test easy to maintain
+## Octomind tests are easy to maintain
 https://www.octomind.dev/product/debug-tests 
 
 - we pre-classify test failure root cause automatically and cluster them
