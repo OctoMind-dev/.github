@@ -14,7 +14,7 @@ https://www.octomind.dev/product/generate-tests
 - record a specific test case with our recorder
 - prompt out AI agent with natural language
 
-Octomind supports complex test setup - unlimited environments, CI/CD integratetion, custom variables, test sharding, automated validation, email flow testing, 2FA logins, data isolation, shared auth state, and [more]((https://octomind.dev/docs).
+Octomind supports complex test setup - unlimited environments, CI/CD integratetion, custom variables, test sharding, automated validation, email flow testing, 2FA logins, data isolation, shared auth state, and [more](https://octomind.dev/docs).
 
 ## Execute tests at scale - fully managed and deterministic 
 https://www.octomind.dev/product/run-e2e-tests
