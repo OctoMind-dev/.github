@@ -2,7 +2,7 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/octomind-gmbh/automagically)
 
-Hey! With [Octomind end-to-end tests](https://www.octomind.dev/) your can create (AI auto-generate, record, import via [Octomind MCP](https://github.com/OctoMind-dev/octomind-mcp), run and maintain end-to-end tests in standard Playwright code in the cloud. We work on both staging and production, on public apps and on [private apps](https://github.com/OctoMind-dev/private-location-worker). 
+Hey! With [Octomind end-to-end tests](https://www.octomind.dev/) your can create (AI auto-generate, record, import via [Octomind MCP](https://github.com/OctoMind-dev/octomind-mcp)), run and maintain end-to-end tests in standard Playwright code in the cloud. We work on staging and production, on public apps and on [private ones](https://github.com/OctoMind-dev/private-location-worker). 
 
 Whether you want to make sure you didn't break a new build or use the e2e test for synthetic monitoring, you test suite will scale automatically, no devops required. 
 
